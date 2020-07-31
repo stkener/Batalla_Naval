@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1573947508 source:c:\users\sebastian\downloads\nueva carpeta\bat na\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"SocketConnection.h"
+	"SocketTrama.h"
+
+1465768360 c:\users\sebastian\desktop\code bloks\libreriaswindowscodeblocks\socketconnection\socketconnection.h
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+
+1465587078 c:\users\sebastian\desktop\code bloks\libreriaswindowscodeblocks\socketconnection\sockettrama.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1596221934 source:c:\users\sebastian\desktop\code bloks\batalla naval\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"SocketConnection.h"
+	"SocketTrama.h"
+
+1596131951 c:\users\sebastian\desktop\code bloks\librerias socket codeblocks win\socketconnection\socketconnection.h
+	<winsock2.h>
+	<ws2tcpip.h>
+	<windows.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdarg.h>
+
+1596131955 c:\users\sebastian\desktop\code bloks\librerias socket codeblocks win\socketconnection\sockettrama.h
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
