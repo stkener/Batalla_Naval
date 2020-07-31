@@ -30,11 +30,11 @@ Antes de comenzar los ataques se deberas ubicar los barcos en tu radar. Los barc
 
 *Recorda poner las letras en mayuscula*
 
-<img src="images/ccampo 1.jpg" width="500px" />
+<img src="images/campo 1.jpg" width="500px" />
 
 Una vez ingresados los barcos iniciara la batalla. Si eres cliente quedaras esperando un ataque y si sos servidor atacaras.
 
-<img src="images/ccampo 1.jpg" width="500px" />
+<img src="images/campo 2.jpg" width="500px" />
 
 Ya habiendo derrotado la flota enemiga aparecera en la pantalla un mensaje: “GANASTE” o “PERDISTE ...JAJAJA”.
 Luego, presionando enter volvera al menu donde elegiste ser servidor o cliente.
