@@ -7,13 +7,13 @@ Si bien al codigo le faltan funciones para tener un resultado mas acabado en cua
 
 Se representan dos tableros clásicos del juego, radares enemigo y aliado, donde se coloca nuestra flota de barcos (tres), con tres casilleros cada uno. Mediante una coneccion TCP se pasan coordenadas para descubrir la localización de la flota enemiga y hundir todos los acorazados. 
 
-#iniciando el juego
+# iniciando el juego
 
 En el menu principal encontraras el titulo y las opciones jugar y salir.
 
 <img src="images/titulo 1.jpg" width="500px" />
 
-#Jugar
+# Jugar
 
 En la opcion jugar  tenes las siguientes opciones:
 
@@ -25,7 +25,7 @@ Con ambas opciones, tanto servidor como cliente, deberan cargar datos para la co
 
 <img src="images/cliente-servidor.jpg" width="500px" />
 
-#Comenzando el juego
+# Comenzando el juego
 Antes de comenzar los ataques se deberas ubicar los barcos en tu radar. Los barcos figuraran en el tablero con los siguientes simbolos: '?' - '¿' - '@'.
 
 *Recorda poner las letras en mayuscula*
